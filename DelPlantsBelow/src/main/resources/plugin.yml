@@ -1,0 +1,11 @@
+name: DelPlantsBelow
+version: 1.1_02
+main: me.fiveave.delplantsbelow.main
+api-version: 1.15
+authors: [ 5_AvenueLocal ]
+softdepend:
+  - CoreProtect
+commands:
+  delplantsbelow:
+    description: Delete Plants Below
+    usage: /delplantsbelow <radius> <from> <to>
